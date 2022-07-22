@@ -1,0 +1,26 @@
+#base {
+    width: 442px;
+    font-family: cursive;
+  }
+  
+  #left{
+    float: left;
+    width: 48%;
+  }
+  #rigth{
+    float: right;
+    width: 50%;
+  }
+  #footer   {
+    margin-top: 170px;
+    text-align: center;
+  }
+  
+  img{ width: 37px;
+      float: right; }
+  
+  .control{
+    outline: none;
+    border: none;
+  }
+  
